@@ -1,0 +1,32 @@
+﻿  client.cpp
+D:\A_learn\C++project\class\serve00.h(44,24): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+D:\A_learn\C++project\class\client.cpp(27,31): message : 查看对正在编译的函数 模板 实例化“my_time operator *<double>(const T &,const my_time &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\A_learn\C++project\class\serve00.h(45,28): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+D:\A_learn\C++project\class\serve00.h(35,28): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+D:\A_learn\C++project\class\client.cpp(31,62): message : 查看对正在编译的函数 模板 实例化“my_time my_time::operator *<double>(const T &)”的引用
+          with
+          [
+              T=double
+          ]
+D:\A_learn\C++project\class\serve00.h(36,30): warning C4244: “=”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=double
+          ]
+  class.vcxproj -> D:\A_learn\C++project\class\x64\Debug\class.exe
